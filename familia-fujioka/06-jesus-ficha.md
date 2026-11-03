@@ -33,7 +33,7 @@ Esta es la ficha del protagonista del universo alternativo. **No sustituye a nad
 
 ## El cuerpo
 
-Moreno de piel, del tono de quien se crió con sol y no con lámparas de techo. Pelo castaño claro, corto, en picos que no se peina: se levanta y ya está. Ojos cafés, grandes, que se mueven antes que la cara, como si estuvieran leyendo la habitación mientras él todavía no ha decidido qué decir.
+Moreno de piel, del tono de quien se crió con sol y no con lámparas de techo. Pelo **rubio teñido**, corto, en picos que no se peina: se levanta y ya está. El tinte es lo primero que se le nota y lo primero que se le descolora; a las cinco semanas, en las raíces, vuelve a asomar el castaño oscuro de verdad, y él lo tapa con gorra hasta que encuentra dinero o tiempo. Ese detalle lo persigue: **el rubio es lo único de su cuerpo que puede elegir, y ni eso le dura.** Ojos cafés, grandes, que se mueven antes que la cara, como si estuvieran leyendo la habitación mientras él todavía no ha decidido qué decir.
 
 La ropa es un manifiesto involuntario. **Chamarra de piel negra** con cierres plateados, comprada en un mercado de Guadalajara, demasiado abrigada para Tokio en mayo. Debajo, la **playera blanca del Club Deportivo Guadalajara**, escudo en el pecho. **Jeans claros**, gastados en las rodillas. **Tenis rojos de caña alta**, con las agujetas blancas siempre desiguales porque se las ata corriendo.
 
