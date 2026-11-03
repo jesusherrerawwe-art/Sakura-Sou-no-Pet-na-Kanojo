@@ -44,10 +44,10 @@ El anuncio de la adaptación se hizo público el **10 de abril de 2012** vía MA
 
 **El reparto de poder creativo es lo interesante del proyecto:**
 
-- **Ishizuka Atsuko** venía de codirigir *SUPERNATURAL: THE ANIMATION*; Sakura-sō fue uno de sus primeros trabajos como directora principal de una serie completa, y en él ya aparecen los rasgos que después marcarían *No Game No Life*: planos de detalle sobre objetos, uso expresivo del color y un montaje que se permite pausas líricas en medio de la comedia. También firma storyboards y dirección de episodios clave (1, 6, 8, 23 y 24, además de los openings y endings).
+- **Ishizuka Atsuko** venía de codirigir *SUPERNATURAL: THE ANIMATION*; Sakura-sō fue uno de sus primeros trabajos como directora principal de una serie completa, y en él ya aparecen rasgos que después marcarían *No Game No Life*: planos de detalle sobre objetos, uso expresivo del color y un montaje que se permite pausas líricas en medio de la comedia. Además de dirigir, firma los storyboards de los episodios 1, 6 (con Suzuki Kaoru), 8 (con Miyaura Kurio) y 23, la dirección de episodio del 1 y del 24, y los storyboards de los openings y endings.
 - **Okada Mari**, en plena racha tras *Anohana* y *Fractal*, asumió la composición de serie y escribió ella misma los episodios 1, 2, 4, 12, 17, 23 y 24, es decir, el arranque y todo el bloque final.
 - **Kamoshida Hajime**, el autor, entró como guionista de cuatro episodios (3, 7, 18 y 22). No es un detalle menor: los episodios escritos por él son justamente los que se apartan del esquema de "capítulo de novela adaptado" y añaden material original.
-- **Hayashi Yūzō** compuso la banda sonora (también responsable de la música de *Nana* y *Chihayafuru*), con producción musical de Media Factory.
+- **Hayashi Yūzō** compuso la banda sonora completa, con producción musical de Media Factory.
 
 ---
 
@@ -203,7 +203,7 @@ Las fechas son de primera emisión en TOKYO MX. La traducción al español es nu
 ¹ きょうしゅう puede escribirse 郷愁 ("nostalgia") o 強襲 ("asalto"); el episodio trata de la nostalgia de Shiina por el pasado, de modo que la lectura natural es la primera. No hay traducción oficial que lo confirme.
 ² Proverbio japonés 住めば都: "donde vives, si te adaptas, se vuelve la mejor ciudad". De ahí el título.
 
-**Números para tener a mano:** los cuatro episodios de Kamoshida son el 3, 7, 18 y 22; los de Okada, 1, 2, 4, 12, 17, 23 y 24. El episodio 23 y el 24 son los únicos con storyboard de la directora y dirección de episodio separada, es decir, el díptico final se planificó como unidad.
+**Números para tener a mano:** los cuatro episodios de Kamoshida son el 3, 7, 18 y 22; los de Okada, 1, 2, 4, 12, 17, 23 y 24. El díptico final (23 y 24) es el único tramo con Okada en el guion y con Ishizuka cubriendo storyboard y dirección de episodio entre los dos capítulos, lo que lo convierte en una unidad de cierre concebida como tal.
 
 ---
 
@@ -254,7 +254,7 @@ Ocho volúmenes, tres episodios por volumen, ritmo mensual de enero a agosto de 
 
 ## 10. Cambios respecto a la novela (y la polémica del samgyetang)
 
-La adaptación es bastante fiel en estructura: cubre aproximadamente hasta el final del arco de la graduación (volúmenes 1 a 7 de la novela, con material del 7.5), y por eso **el anime no adapta los tomos 8, 9, 10 y 10.5**, que son justamente donde se resuelve la historia de Mashiro como mangaka y el futuro de la pareja. Ese es el motivo de que el final del anime se sienta abierto.
+La adaptación respeta el orden de la novela. El anime arrancó el mismo mes en que salía el tomo 8 y terminó el mismo mes en que salía el 9, así que su material se queda en el tramo inicial de la historia: cierra con la graduación de Misaki y Jin (episodio 23) y con la llegada de los nuevos residentes (episodio 24). **No adapta el desenlace**: los tomos 9, 10 y 10.5, donde la historia continúa después de la graduación y donde la propia editorial situó el final verdadero. Ese es el motivo de que el final del anime se sienta abierto.
 
 **El cambio más famoso no es de trama, sino de cocina.** En el episodio 6, cuando Nanami está enferma, Jin le prepara **samgyetang** (삼계탕, pollo relleno de ginseng, plato coreano). En la novela, la escena equivalente habla solo de un **okayu** (お粥, gachas de arroz). El cambio provocó en noviembre de 2012 una oleada de críticas en internet: parte del público lo interpretó como imposición de cultura coreana o incluso como *stealth marketing*.
 
