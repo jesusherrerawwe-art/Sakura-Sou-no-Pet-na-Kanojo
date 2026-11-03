@@ -8,7 +8,7 @@ Carpeta de trabajo para la arquitectura narrativa de este universo alternativo d
 
 | Acto | Capítulos | Función | Estado |
 |---|---|---|---|
-| I | 1 a 9 | — | ⏳ Por planear |
+| I | 1 a 9 | El trimestre de una sola promesa | ✅ [Estructurado](acto-1/README.md) ⚠️ |
 | II | 10 a 18 | — | ⏳ |
 | III | 19 a 27 | — | ⏳ |
 
@@ -17,7 +17,8 @@ Carpeta de trabajo para la arquitectura narrativa de este universo alternativo d
 1. [00 · Cuánto debe medir una novela ligera de verdad](00-guia-de-extension.md) ✅
    Qué extensión tiene un tomo, qué piden los concursos japoneses, cómo se publica el género en la práctica, la conversión a palabras en español y la calibración de los 27 capítulos.
 
-2. 01 · Acto I: los nueve capítulos ⏳
+2. [Acto I — estructura completa](acto-1/README.md) ✅ ⚠️
+   Carpeta aparte por los spoilers: arquitectura del acto, prólogo y los nueve capítulos con sus giros.
 3. 02 · Acto II ⏳
 4. 03 · Acto III ⏳
 
