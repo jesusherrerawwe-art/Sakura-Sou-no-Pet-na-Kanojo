@@ -90,7 +90,9 @@ Documentación de referencia del universo de *Sakura-sou no Pet na Kanojo* (さ�
 
 ## Biblia de la obra: 7 secciones, 21 documentos (completa)
 
-> 🏠 **La familia del protagonista y el protagonista mismo ya no viven aquí:** se mudaron a [`../familia-fujioka/`](../familia-fujioka/README.md).
+> 🧭 **Esta carpeta es material de referencia.** Documenta la obra original (anime, novela y manga) y sirve como **manual y guía para escribir al personaje original** de este universo alternativo, donde Sorata Kanda no existe.
+>
+> 🏠 La familia del protagonista, sus animales y el propio protagonista viven en [`../familia-fujioka/`](../familia-fujioka/README.md). Si algo de aquí choca con aquello, **manda `familia-fujioka/`**.
 
 | Sección | Documentos | Tema |
 |---|---|---|
