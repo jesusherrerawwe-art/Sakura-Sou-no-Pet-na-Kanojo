@@ -19,7 +19,18 @@ Documentación de referencia del universo de *Sakura-sou no Pet na Kanojo* (さ�
 3. [01-C · La franquicia completa](01c-franquicia-multimedia.md) ✅
    Manga, antología 4-koma, drama CDs, web radio, novela visual de PSP/PS Vita, 嫁コレ, 『電撃文庫 FIGHTING CLIMAX』, el crossover de 2016 con 青春ブタ野郎, cameos, cronología completa, cifras y crítica.
 
-> Las secciones 02 en adelante se irán incorporando conforme se definan.
+### Sección 02 — Temporada 1: capítulos con spoilers ✅
+
+4. [02-A · Episodios 1 a 8](02a-temporada-1-episodios-1-8.md) ✅
+   Presentación del mundo, llegada de Mashiro, primer verano, primer fracaso. Incluye el mapa de continuidad de los ocho primeros capítulos.
+
+5. [02-B · Episodios 9 a 16](02b-temporada-1-episodios-9-16.md) ✅
+   Llegada de Rita, producción de Nyaboron, festival cultural, Navidad, Año Nuevo en Fukuoka y la presentación de Sorata.
+
+6. [02-C · Episodios 17 a 24](02c-temporada-1-episodios-17-24.md) ✅
+   San Valentín, el examen de Yuuko, la amenaza de demolición, la graduación y el cierre de temporada, con el estado final de cada personaje.
+
+> Las secciones 03 en adelante se irán incorporando conforme se definan.
 
 ---
 
