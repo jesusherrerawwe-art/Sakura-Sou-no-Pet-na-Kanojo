@@ -27,7 +27,7 @@
 | **Sello / etiqueta** | 電撃文庫 (Dengeki Bunko) |
 | **Tipo de obra** | Novela ligera (ライトノベル) |
 | **Género declarado** | 青春 (novela juvenil de formación) · ラブコメ (comedia romántica) · 学園 (escolar) |
-| **Público** | Juvenil / *young adult* masculino (etiqueta shōnen-seinen de Dengeki Bunko) |
+| **Público** | Juvenil / *young adult* (novela ligera de Dengeki Bunko; el sello no fija una demografía cerrada) |
 | **Periodo de publicación** | 10 de enero de 2010 – 8 de marzo de 2014 |
 | **Volúmenes** | **13** en total: 10 de historia principal + 3 de relatos cortos |
 | **Formato** | A6判 / 文庫判 (tamaño de bolsillo japonés, aprox. 10.5 × 14.8 cm) |
@@ -144,7 +144,6 @@ Datos de fecha, extensión y precio tomados de las fichas de producto de KADOKAW
 
 **Detalles que importan para la cronología interna:**
 
-- El tomo 1 salió **sin número en el lomo visible** en muchas librerías; la serie se numeró a partir del 2.
 - El volumen **10 (julio de 2013)** era, en principio, el final de la historia principal. La editorial lo anunció como "el emotivo final" y a la vez avisó que habría un 10.5.
 - El **10.5 (marzo de 2014)** es el cierre real: la web oficial lo llamó literalmente **「本当の完結巻」**, *"el verdadero tomo final"*, e incluye relatos escritos expresamente sobre la vida de Sorata y compañía **después de la graduación**.
 - El tomo 10 es el más largo de la serie (472 páginas); el 10.5, el más corto (296).
@@ -153,8 +152,8 @@ Datos de fecha, extensión y precio tomados de las fichas de producto de KADOKAW
 
 | Volumen | Carácter | Función narrativa |
 |---|---|---|
-| **5.5** (sep. 2011) | Colección de relatos cortos | Publicado a mitad de la serie; historias laterales del día a día del dormitorio. Rompe el ritmo de la trama principal justo después del arco de Nanami. |
-| **7.5** (ago. 2012) | Colección de relatos cortos | Coincide con el estreno del anime (octubre de 2012), de modo que refresca la serie para los lectores nuevos que llegan desde la televisión. |
+| **5.5** (sep. 2011) | Colección de relatos cortos | Publicado a mitad de la serie; historias laterales del día a día del dormitorio. |
+| **7.5** (ago. 2012) | Colección de relatos cortos | Salió dos meses antes del estreno del anime (octubre de 2012), en plena campaña de promoción de la serie. |
 | **10.5** (mar. 2014) | Colección de relatos cortos | Epílogo y despedida: qué pasa con el dormitorio y con cada personaje después de la graduación. Es el tomo que el fandom discute cuando discute "el final". |
 
 Estos tres tomos son la razón de que la serie se cuente en **13 volúmenes** pero en **10 arcos**: la numeración decimal japonesa es una convención editorial que indica "tomo complementario intercalado".
