@@ -46,7 +46,7 @@ Al final, Mashiro está pintando en el salón de arte y sus compañeras salen co
 
 **Detalles.**
 
-- Rita habla japonés con fluidez y un acento marcado; su llegada está anunciada desde el "cacao mass" del final del episodio 8.
+- Rita estudió pintura con Mashiro en el atelier de su abuelo, Adel Ainsworth, en Inglaterra; ese pasado se desarrolla en el episodio 10 y explica su relación con ella.
 - La frase "no todo tiene segunda oportunidad" es la advertencia que después se cumplirá, al menos parcialmente, en el episodio 22.
 - El personaje de Nyaboron nació de un dibujo infantil de Misaki: la serie insiste en que **los genios también tienen infancias raras**.
 
