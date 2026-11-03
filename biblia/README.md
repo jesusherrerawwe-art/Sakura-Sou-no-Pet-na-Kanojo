@@ -63,7 +63,18 @@ Documentación de referencia del universo de *Sakura-sou no Pet na Kanojo* (さ�
 15. [05-C · El manga y las tres versiones](05c-diferencias-manga.md) ✅
    El manga de 8 tomos con su final propio (los padres de Mashiro), tabla escena por escena de las tres versiones y los drama CD con material original.
 
-> Las secciones 06 en adelante se irán incorporando conforme se definan.
+### Sección 06 — Lista de waifus ✅
+
+16. [06-A · Metodología y el ranking](06a-waifus-ranking.md) ✅
+   Los favoritos reales de AniList por personaje, las tarjetas oficiales de 嫁コレ y el top 5 razonado con puntuaciones por ejes.
+
+17. [06-B · Las fichas, una por una](06b-waifus-fichas.md) ✅
+   Arquetipo, escena decisiva, cita, defecto humanizador y guía de escritura romántica para cada personaje femenino.
+
+18. [06-C · Cultura waifu y recepción](06c-waifus-cultura.md) ✅
+   嫁コレ y la jerarquía comercial, el debate Mashiro vs Nanami, la *make-heroine*, el reparto de arquetipos y cómo elegir pareja para el fanfic.
+
+> Las secciones 07 en adelante se irán incorporando conforme se definan.
 
 ---
 
