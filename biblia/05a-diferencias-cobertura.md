@@ -28,7 +28,7 @@
 
 ## 1. La novela: 13 volúmenes y una estructura clara
 
-| Tomo | Fecha | Contenido principal | ¿Adaptado? |
+| Tomo | Fecha | Contenido principal | ¿Adaptado? (correspondencia aproximada) |
 |---|---|---|---|
 | **1** | 10/01/2010 | Llegada de Mashiro, el "turno Mashiro", primer concurso, Nanami se muda | Sí (ep. 1-5) |
 | **2** | 10/04/2010 | Verano, Yuuko, primer fracaso de Sorata | Sí (ep. 6-8) |
@@ -44,7 +44,7 @@
 | **10** | 10/07/2013 | Ruptura, salto de cuatro años, reencuentro | **No** |
 | **10.5** | 08/03/2014 | Epílogo: la vida adulta de todos | **No** |
 
-**Conclusión práctica:** el anime adapta **los seis primeros tomos y el arranque del séptimo**. Todo lo que ocurre desde la mitad del tomo 7 hasta el 10.5 **solo existe en papel**. Son cinco tomos y medio de historia virgen para un fanfic.
+**Conclusión práctica:** el anime adapta **los seis primeros tomos y el arranque del séptimo**. El reparto de episodios por tomo de la tabla es aproximado (el anime funde capítulos y no siempre respeta los límites del libro); la correspondencia exacta solo está documentada para los episodios cuyos títulos coinciden con capítulos, que son los de la sección 2. Todo lo que ocurre desde la mitad del tomo 7 hasta el 10.5 **solo existe en papel**. Son cinco tomos y medio de historia virgen para un fanfic.
 
 ---
 
