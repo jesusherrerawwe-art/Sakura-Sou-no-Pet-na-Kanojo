@@ -282,7 +282,7 @@ En el dormitorio continúan la fiesta con luces de bengala. Nanami le dice a Mas
 
 - El 31 de agosto como fecha de presentación sitúa la historia al final del verano: la temporada 1 avanza en tiempo real desde la primavera.
 - Kazuki vuelve a aparecer en los episodios 16, 20, 21 y 22; es el único adulto del elenco que representa el mundo profesional.
-- La escena de la piscina tiene su migaja al final: **después de los créditos, Rita habla del "cacao mass"** y desmiente el mito de la hemorragia nasal por comer chocolate. Es el primer cameo de un personaje que llegará en el episodio 9.
+- El episodio cierra con Mashiro y Nanami a solas: Nanami le dice que **por fin empieza a entender qué es el amor**. Es la primera vez que lo admite en voz alta, y lo hace frente a su rival.
 
 ---
 
