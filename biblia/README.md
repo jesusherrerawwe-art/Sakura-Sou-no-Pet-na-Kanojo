@@ -74,7 +74,30 @@ Documentación de referencia del universo de *Sakura-sou no Pet na Kanojo* (さ�
 18. [06-C · Cultura waifu y recepción](06c-waifus-cultura.md) ✅
    嫁コレ y la jerarquía comercial, el debate Mashiro vs Nanami, la *make-heroine*, el reparto de arquetipos y cómo elegir pareja para el fanfic.
 
-> Las secciones 07 en adelante se irán incorporando conforme se definan.
+### Sección 07 — Datos curiosos y cabos sueltos ✅
+
+19. [07-A · Cifras, mundo y producción](07a-curiosidades-datos.md) ✅
+   Los 1,8 millones de ejemplares, premios y rankings, ediciones en Corea/Taiwán/China, el reglamento interno de Sakura-sō, el verdadero motivo de la demolición, los gatos con nombre de tren bala y las curiosidades de reparto y producción.
+
+20. [07-B · Los cabos sueltos](07b-cabos-sueltos.md) ✅
+   La tabla completa de cameos de los personajes en 『青春ブタ野郎』 volumen por volumen, el audio drama de votación mayoritaria de 2016, qué se cerró y qué quedó abierto de verdad.
+
+21. [07-C · Legado y cierre de la biblia](07c-legado-cierre.md) ✅
+   Por qué la serie sigue viva, el universo Kamoshida, veinte datos rápidos, diez reglas para escribir, el índice general y cómo usar la biblia para el fanfic.
+
+---
+
+## 🎉 Biblia completa: 7 secciones, 21 documentos
+
+| Sección | Documentos | Tema |
+|---|---|---|
+| 01 | 3 | Ficha técnica, anime y staff, franquicia completa |
+| 02 | 3 | Los 24 episodios, uno por uno |
+| 03 | 3 | Personajes principales |
+| 04 | 3 | Personajes secundarios |
+| 05 | 3 | Diferencias entre anime, manga y novela |
+| 06 | 3 | Lista de waifus |
+| 07 | 3 | Curiosidades y cabos sueltos |
 
 ---
 
