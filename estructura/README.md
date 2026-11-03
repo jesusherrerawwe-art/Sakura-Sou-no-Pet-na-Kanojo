@@ -26,3 +26,4 @@ Carpeta de trabajo para la arquitectura narrativa de este universo alternativo d
 
 - [`../familia-fujioka/`](../familia-fujioka/README.md) — el universo propio: familia, animales, protagonista, el incidente de Aoyama y la guerra de waifus.
 - [`../biblia/`](../biblia/README.md) — la obra original, como manual de referencia.
+- [`../novela/`](../novela/README.md) — el texto de la novela: título de saga, tomo I y capítulos escritos.
