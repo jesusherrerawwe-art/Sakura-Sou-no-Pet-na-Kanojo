@@ -45,6 +45,8 @@ A eso se suma el **contraste**: es la mejor del mundo en una cosa (pintar) y la 
 **Episodio 12.** Después de toda la primera mitad de la serie comportándose como un objeto en movimiento, Mashiro se queda quieta y dice que siente algo raro en el pecho. No sabe nombrarlo. Pregunta si eso es amor. Es la primera vez que la serie le da **una pregunta interna**, y con eso la convierte en protagonista.
 
 La segunda escena clave es el **episodio 4**, cuando Sorata la hiere sin querer con un comentario sobre su manga y ella se derrumba: ahí se descubre que su aparente frialdad no era ausencia de sentimientos, sino incapacidad de mostrarlos.
+<p align="center"><img src="imagenes/episodios/ep12.jpg" alt="Episodio 12: la pregunta de Mashiro" width="520"></p>
+
 
 ## Cita
 
@@ -89,6 +91,8 @@ El público no se enamora de su destreza, sino de su **desventaja**. Cuando Sora
 **Episodio 21.** Después de suspender la segunda audición, Nanami se derrumba en clase y Sorata la sostiene bajo la lluvia. Ahí dice lo que llevaba dos años callando: que usó a los demás como distracción para no enfrentar sus fracasos. Es una autocrítica brutal, del personaje más trabajador de la serie.
 
 La otra es el **episodio 22**: empieza a declararse, se desvía a medio camino y termina dándole las gracias. Cuando él se va, confiesa al aire que pudo esforzarse porque estaba enamorada de él.
+<p align="center"><img src="imagenes/episodios/ep21.jpg" alt="Episodio 21: la lluvia" width="520"></p>
+
 
 ## Cita
 
@@ -132,6 +136,8 @@ Y porque su villanía tiene una explicación **vergonzosa para ella misma**: le 
 **Episodio 10.** Confiesa su pasado al grupo, sale corriendo bajo la lluvia y Ryūnosuke la destroza con una frase. Después, Sorata la encuentra y le dice lo único que necesita oír: **que fue la única que se quedó**, cuando todos los demás alumnos se marcharon del atelier. Rita llora, y al día siguiente vuelve a pintar.
 
 En el **episodio 12** se despide en el aeropuerto con un beso en la mejilla que hace que Ryūnosuke se desmaye; en el **24** vuelve y repite el gesto delante de todos, incluida una Maid-chan que recibe un beso a través de la tablet.
+<p align="center"><img src="imagenes/episodios/ep10.jpg" alt="Episodio 10: la confesión de Rita" width="520"></p>
+
 
 ## Cita
 
@@ -174,6 +180,8 @@ Y porque es la única del reparto que ya perdió lo que quería (la beca de arte
 **Episodio 14 (Nochebuena).** Se declara con un bentō, Jin la rechaza con toda la delicadeza del mundo y ella llora diciendo que **habría preferido que la hiriera**. En tres minutos, la serie desmonta su personaje y lo reconstruye.
 
 Y el **episodio 23**: su discurso de graduación se convierte en un mitin para salvar el dormitorio, con los broches de flor de cerezo volando por el patio. Es la mejor escena del anime.
+<p align="center"><img src="imagenes/episodios/ep23.jpg" alt="Episodio 23: el discurso de Misaki" width="520"></p>
+
 
 ## Cita
 
@@ -217,6 +225,8 @@ Su encanto es el del **adulto desastrado que, en realidad, sostiene la casa**.
 **Episodio 14.** En el bar, le explica a Sorata que Mashiro está aprendiendo a través de él, y le avisa de lo que va a costar. Es la única que habla de la relación como un adulto, sin romanticismo.
 
 Y el **episodio 23**, cuando abofetea a Kazuki y exige la votación: la pereza se cae de golpe y aparece la profesora.
+<p align="center"><img src="imagenes/episodios/ep14.jpg" alt="Episodio 14: Chihiro en el bar" width="520"></p>
+
 
 ## Cita
 
