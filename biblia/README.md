@@ -52,7 +52,18 @@ Documentación de referencia del universo de *Sakura-sou no Pet na Kanojo* (さ�
 12. [04-C · Residentes nuevos, Rita y la familia Akasaka](04c-secundarios-nuevos-residentes.md) ✅
    Kanna e Iori, la ficha completa de Rita Ainsworth, Yuriko Akasaka, Otoha Nakano y el equipo perdido de Ryūnosuke. Cierra con el mapa de cuartos antes y después del final.
 
-> Las secciones 05 en adelante se irán incorporando conforme se definan.
+### Sección 05 — Diferencias entre el anime y el manga/novela ✅
+
+13. [05-A · Cobertura y estructura](05a-diferencias-cobertura.md) ✅
+   Qué cuenta cada versión, qué tomos adapta el anime y cuáles no, la correspondencia entre títulos de capítulo y de episodio, la cronología de publicación y qué versión usar según lo que quieras escribir.
+
+14. [05-B · Los cambios concretos del anime](05b-diferencias-cambios-anime.md) ✅
+   El caso del samgyetang con toda su polémica, el cambio de clase de Miyahara, la declaración de Nanami que el anime eliminó, el reordenamiento del final y las diferencias de producción (openings, endings e insertos).
+
+15. [05-C · El manga y las tres versiones](05c-diferencias-manga.md) ✅
+   El manga de 8 tomos con su final propio (los padres de Mashiro), tabla escena por escena de las tres versiones y los drama CD con material original.
+
+> Las secciones 06 en adelante se irán incorporando conforme se definan.
 
 ---
 
