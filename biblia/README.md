@@ -41,7 +41,18 @@ Documentación de referencia del universo de *Sakura-sou no Pet na Kanojo* (さ�
 9. [03-C · Ryūnosuke Akasaka, Maid-chan y Chihiro Sengoku](03c-personajes-ryunosuke-chihiro.md) ✅
    El hikikomori genio del teclado, su IA con voluntad propia y la adulta desastrosa que sostiene el dormitorio. Cierra con el mapa de relaciones de todo el elenco.
 
-> Las secciones 04 en adelante se irán incorporando conforme se definan.
+### Sección 04 — Personajes secundarios ✅
+
+10. [04-A · La familia Kanda y los adultos del mundo creativo](04a-secundarios-familia-kanda.md) ✅
+   Yūko, Akiko y el padre de Sorata; la editora Ayano Iida, el mentor Kazuki Fujisawa y Fūka Kamiigusa.
+
+11. [04-B · Escuela, aula y vida cotidiana](04b-secundarios-escuela.md) ✅
+   Miyahara, Mayu, Yayoi, Tatebayashi, Saori, Shiho, Koharu, Shiori Nanba, Momoko y Noriko.
+
+12. [04-C · Residentes nuevos, Rita y la familia Akasaka](04c-secundarios-nuevos-residentes.md) ✅
+   Kanna e Iori, la ficha completa de Rita Ainsworth, Yuriko Akasaka, Otoha Nakano y el equipo perdido de Ryūnosuke. Cierra con el mapa de cuartos antes y después del final.
+
+> Las secciones 05 en adelante se irán incorporando conforme se definan.
 
 ---
 
