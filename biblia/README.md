@@ -85,23 +85,12 @@ Documentación de referencia del universo de *Sakura-sou no Pet na Kanojo* (さ�
 21. [07-C · Legado y cierre de la biblia](07c-legado-cierre.md) ✅
    Por qué la serie sigue viva, el universo Kamoshida, veinte datos rápidos, diez reglas para escribir, el índice general y cómo usar la biblia para el fanfic.
 
-### Sección 08 — La familia del OC ✅
-
-22. [08-A · El padre, 藤岡 誠](08a-familia-padre.md) ✅
-   Ficha completa del antagonista: sus tres nombres, biografía por etapas, la empresa de envases, psicología de la vergüenza, keigo con su propio hijo, ocho armas de antagonista, cinco escenas y cómo se derrota.
-
-23. [08-B · Cuatro generaciones](08b-familia-generaciones.md) ✅
-   El árbol familiar de 1897 a hoy, las tres fechas históricas (1614, 1888, 1897), la abuela Lola, la madre en Guadalajara, el nombre doble de Jesús y el formulario de nacionalidad.
-
-24. [08-C · El jersey y las otras reliquias](08c-familia-objetos.md) ✅
-   El jersey de las Chivas y su escena fundacional con Mashiro, el dije del ajolote, el formulario sin firmar, el mapa de idiomas y la tabla de símbolos.
-
-> A partir de aquí empieza la fase de creación del OC y del fanfic.
 
 ---
 
 ## Biblia de la obra: 7 secciones, 21 documentos (completa)
-## Creación original: sección 08 en curso
+
+> 🏠 **La familia del protagonista y el protagonista mismo ya no viven aquí:** se mudaron a [`../familia-fujioka/`](../familia-fujioka/README.md).
 
 | Sección | Documentos | Tema |
 |---|---|---|
@@ -112,7 +101,7 @@ Documentación de referencia del universo de *Sakura-sou no Pet na Kanojo* (さ�
 | 05 | 3 | Diferencias entre anime, manga y novela |
 | 06 | 3 | Lista de waifus |
 | 07 | 3 | Curiosidades y cabos sueltos |
-| **08** | 3 | **La familia del OC** (padre, generaciones, objetos) |
+
 
 ---
 
