@@ -30,7 +30,18 @@ Documentación de referencia del universo de *Sakura-sou no Pet na Kanojo* (さ�
 6. [02-C · Episodios 17 a 24](02c-temporada-1-episodios-17-24.md) ✅
    San Valentín, el examen de Yuuko, la amenaza de demolición, la graduación y el cierre de temporada, con el estado final de cada personaje.
 
-> Las secciones 03 en adelante se irán incorporando conforme se definan.
+### Sección 03 — Personajes principales ✅
+
+7. [03-A · Sorata Kanda y Mashiro Shiina](03a-personajes-sorata-mashiro.md) ✅
+   Fichas completas de los dos protagonistas: datos personales, significado de sus nombres, apariencia, personalidad, historia (anime y novela), relaciones, frases y guía de escritura. Incluye el panorama del elenco principal.
+
+8. [03-B · Nanami Aoyama, Misaki Kamiigusa y Jin Mitaka](03b-personajes-nanami-misaki-jin.md) ✅
+   La chica sin talento que trabaja, la genio que no puede parar y el cobarde que aprende a querer. Con la dinámica del trío y sus arcos completos.
+
+9. [03-C · Ryūnosuke Akasaka, Maid-chan y Chihiro Sengoku](03c-personajes-ryunosuke-chihiro.md) ✅
+   El hikikomori genio del teclado, su IA con voluntad propia y la adulta desastrosa que sostiene el dormitorio. Cierra con el mapa de relaciones de todo el elenco.
+
+> Las secciones 04 en adelante se irán incorporando conforme se definan.
 
 ---
 
