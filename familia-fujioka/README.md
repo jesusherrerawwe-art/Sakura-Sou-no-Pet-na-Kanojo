@@ -25,8 +25,14 @@ Su material de la obra original **no se borra**: se queda en [`../biblia/`](../b
 5. [05 · Los animales](05-los-animales.md) ✅
    Frijol y Mole: el perro y la gata callejeros que llegaron juntos. Cómo se invierte el rasgo de Sorata, qué representa cada uno, el perro que tuvo Makoto y las reglas de uso.
 
-6. 06 · Jesús Fujioka Hernández ⏳
-   Ficha completa del protagonista. **Pendiente: su sueño.**
+6. [06 · Jesús Fujioka Hernández](06-jesus-ficha.md) ✅
+   Ficha completa del protagonista: los dos nombres, el cuerpo, el TDAH explicado por dentro, la carne en su jugo, los dos juegos sin terminar, el cuarto 101, el coqueteo y un día cualquiera.
+
+7. [07 · El incidente de Aoyama](07-el-incidente-aoyama.md) ✅
+   La audición, la frase del director de sonido, la pregunta en el andén y las cuatro etapas de la dependencia emocional de Nanami, hasta la crisis y la retirada.
+
+8. [08 · La guerra de waifus](08-la-guerra-de-waifus.md) ✅
+   El tablero de Misaki, las cinco pruebas, el tiro por la culata de la cajera, el veredicto de Lola y por qué Mashiro gana sin competir.
 
 ---
 
@@ -39,8 +45,11 @@ Decisiones tomadas por el autor para este universo. Las demás están abiertas.
 | 1 | **Jesús hereda el cuarto 101** de Sakura-sō | ✅ Fijado |
 | 2 | **Un gato y un perro callejeros**, que llegan juntos: **Mole** y **Frijol** | ✅ Fijado |
 | 3 | **La abuela Lola sustituye a Yūko Kanda** en su hueco narrativo | ✅ Fijado |
-| 4 | **El sueño de Jesús** (a qué quiere dedicarse) | ⏳ Por definir |
-| 5 | Sorata Kanda no existe aquí, pero su material queda en `biblia/` como referencia | ✅ Fijado |
+| 4 | **El sueño de Jesús es el desarrollo de videojuegos**, igual que en la obra original: tiene **dos juegos programados con futuro**, pero no termina ninguno | ✅ Fijado |
+| 5 | **Su comida favorita es la carne en su jugo** | ✅ Fijado |
+| 6 | **Lola lo llama «chico apuesto»** y por eso coquetea con todo el mundo, sin malicia, hasta que le sale el tiro por la culata | ✅ Fijado |
+| 7 | **Nanami desarrolla dependencia emocional** hacia él tras un incidente grave con su autoestima | ✅ Fijado |
+| 8 | Sorata Kanda no existe aquí, pero su material queda en `biblia/` como referencia | ✅ Fijado |
 
 ---
 
