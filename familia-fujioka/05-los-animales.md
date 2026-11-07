@@ -100,7 +100,13 @@ Cómo los pronuncian los demás:
 
 Makoto **prohibió los animales en su casa**. No por alergia ni por aseo: porque un animal en la casa implica pelo en el sofá, y el pelo en el sofá implica que la casa se vive, y la suya no se vive, se mantiene.
 
-Y hay un secreto que Lola suelta una vez y no repite: **Makoto tuvo un perro**. Se lo regaló ella cuando él tenía nueve años. Se llamaba algo que ella no quiere decir en voz alta. Cuando Makoto se fue a la universidad, el perro se quedó, y cuando el perro murió, Makoto no volvió para enterrarlo.
+Y hay un secreto que Lola suelta una vez y no repite: **Makoto tuvo un perro**. Se lo regaló ella cuando él tenía nueve años, el mismo año en que le pidió que dejara de hablar español en la casa.
+
+El perro **se llamaba Frijol**. Café, chiquito, con una oreja más grande que la otra. Lola lo dijo una sola vez, en la cocina, un domingo de abril, y no lo volvió a decir nunca.
+
+El perro murió cuando Makoto tenía once. En el entierro no lloró, se encerró dos días en su cuarto y salió siendo otro niño: uno que ya no pedía nada.
+
+Y hay una coincidencia que el libro no subraya nunca. Años después, cuando Jesús nombre al perro que se queda a vivir bajo la escalera de Sakura-sō, le va a poner **el mismo nombre, sin acordarse de esta historia**. Lola, la primera vez que lo oye, tiene que sentarse.
 
 Jesús no sabe esto hasta muy tarde. Cuando lo sabe, entiende dos cosas a la vez: que su padre también quiso a un animal, y que por eso mismo no soporta ver a su hijo queriendo a dos.
 
