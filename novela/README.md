@@ -23,7 +23,7 @@ Universo alternativo de *Sakura-sō no Pet na Kanojo*. **Aquí Sorata Kanda no e
 | 1 | [ようこそ、さくら荘へ · Bienvenido a Sakura-sō](acto-1/01-bienvenido-a-sakurasou.md) | 4019 | ✅ |
 | 2 | [椎名ましろ · Shiina Mashiro](acto-1/02-shiina-mashiro.md) | 3 917 | ✅ |
 | 3 | [ゲームは約束じゃない · Un juego no es una promesa](acto-1/03-un-juego-no-es-una-promesa.md) | 3 793 | ✅ |
-| 4 | ロラが男の話をすると · Lo que Lola dice de los hombres | — | ⏳ |
+| 4 | [ロラが男の話をすると · Lo que Lola dice de los hombres](acto-1/04-lo-que-lola-dice-de-los-hombres.md) | 4 096 | ✅ |
 | 5 | 青山七海は助けを必要としない · Aoyama Nanami no necesita ayuda | — | ⏳ |
 | 6 | 最初の知らせ · El primer aviso | — | ⏳ |
 | 7 | ウルトラマリン · Azul ultramar | — | ⏳ |
