@@ -65,7 +65,7 @@ No lo dijo con desprecio. Lo dijo como se dice un dato, igual que se dice que ho
 
 Se giró otra vez y siguió escribiendo.
 
-Yo, que llevaba seis días en Japón y que había crecido con una abuela que me había enseñado que a las mujeres se les dice lo que uno ve y no lo que uno quiere, hice lo que hago siempre. Me incliné un poco y le dije:
+Yo, que llevaba toda la mañana en esa escuela y que había crecido con una abuela que me había enseñado que a las mujeres se les dice lo que uno ve y no lo que uno quiere, hice lo que hago siempre. Me incliné un poco y le dije:
 
 "Tu letra es bonita. Parece que no le tiene miedo al renglón."
 
