@@ -157,13 +157,17 @@ Y me quedé con el perro. Porque en mi casa, en la casa de mi padre, nunca ha ha
 
 Me reí. Ella no.
 
-"En la casa hay cuatro" dije, y me arrepentí de decirlo en el mismo instante en que lo dije. "Cuatro mujeres, digo. Bueno, tres y una profesora. Y una de ellas es una señora que se llama Chihiro y que duerme en el suelo".
+"En la casa hay tres" dije, y me arrepentí de decirlo en el mismo instante en que lo dije. "Tres mujeres, digo. Una es una señora que se llama Chihiro y que duerme en el suelo de la sala con una lata de cerveza al lado".
 
-"¿Y las otras?"
+"¿Y las otras dos?"
 
-"Una es una pintora. Otra es... no sé qué es. Y la tercera es una chica de mi salón que se la pasa trabajando".
+"Una es una pintora que no sabe vestirse sola. La otra es... no sé qué es, pero entra por la ventana".
 
-Lola puso la taza en la mesa con mucho cuidado, que es lo que hace la gente cuando está a punto de decir algo importante.
+Y después, sin que nadie me preguntara nada, porque mi boca a veces decide las cosas antes que yo:
+
+"También hay una chica de mi salón que trabaja todo el tiempo. Esa no vive ahí".
+
+Lola me miró por encima de la taza y no dijo nada, y el silencio duró lo suficiente para que yo entendiera que acababa de decir algo peor que una mentira. Después puso la taza en la mesa con mucho cuidado, que es lo que hace la gente cuando está a punto de decir algo importante.
 
 "A ver. Escúchame bien" dijo. "A una mujer no se le dice lo que uno quiere".
 
@@ -391,7 +395,7 @@ Jin olió. Después dijo, con esa cortesía suya que siempre parecía medir algo
 
 Chihiro se acercó, olió, y no dijo nada, y después dijo: "Ponlo en la mesa".
 
-Puse la mesa. Puse las tortillas. Puse el mole en cuatro platos y le puse poco a Mashiro porque no sabía qué iba a pasar, y Mashiro lo miró, se lo metió a la boca con la mano sin esperar a nadie y se quedó masticando con los ojos abiertos.
+Puse la mesa. Puse las tortillas. Puse el mole en cinco platos y le puse poco a Mashiro porque no sabía qué iba a pasar, y Mashiro lo miró, se lo metió a la boca con la mano sin esperar a nadie y se quedó masticando con los ojos abiertos.
 
 "Está caliente" dijo.
 
